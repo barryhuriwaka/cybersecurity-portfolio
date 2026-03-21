@@ -14,14 +14,14 @@ It demonstrates my ability to analyse threats, triage alerts, investigate suspic
 
 Realistic, end‑to‑end incident investigations written in professional SOC format.
 
-```| Case # | Title                                      | Skills Demonstrated                                   |
+| Case # | Title                                      | Skills Demonstrated                                   |
 |--------|---------------------------------------------|--------------------------------------------------------|
 | 001    | Suspicious Login Activity — Microsoft 365   | KQL, Azure AD, Identity Protection, IR workflow        |
 | 002    | Coming Soon: Phishing Email Investigation   | Header analysis, URL detonation, mailbox audit         |
 | 003    | Coming Soon: Malware Execution on Endpoint  | EDR triage, process tree analysis                      |
 | 004    | Coming Soon: Insider Threat — Data Exfiltration | DLP, audit logs, behavioural analysis             |
 
-```
+
 📊 Tools & Resources I’ve Built
 Resource	Description
 SOC Investigation Template	A reusable template for documenting incidents
