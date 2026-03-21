@@ -1,7 +1,10 @@
 # cybersecurity-portfolio
 Barry Huriwaka — Cybersecurity Portfolio
+
 SOC Analyst | Incident Response | Microsoft 365 Security | KQL | Threat Detection
+
 📌 About This Portfolio
+
 This portfolio showcases my hands‑on cybersecurity work, including SOC investigations, incident response workflows, KQL analysis, and security documentation.
 It demonstrates my ability to analyse threats, triage alerts, investigate suspicious activity, and communicate findings clearly and professionally.
 
