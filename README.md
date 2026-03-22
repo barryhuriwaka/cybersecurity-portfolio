@@ -55,6 +55,6 @@ Additional certifications planned (AZ‑500, SC‑200, etc.)
 📬 Contact
 Location: Brisbane, QLD (Relocating to Wellington, NZ)
 
-LinkedIn: Add your link here
+LinkedIn: www.linkedin.com/in/barry-huriwaka
 
-GitHub: https://github.com/barryhuriwaka (github.com in Bing)
+GitHub: https://github.com/barryhuriwaka 
