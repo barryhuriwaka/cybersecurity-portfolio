@@ -23,12 +23,14 @@ Realistic, end‑to‑end incident investigations written in professional SOC fo
 
 
 📊 Tools & Resources I’ve Built
-Resource	Description
-SOC Investigation Template	A reusable template for documenting incidents
-Triage Flowchart	Visual guide for alert triage and escalation
-MITRE ATT&CK Mapping Guide	Quick reference for mapping behaviours to ATT&CK
-KQL Cheat Sheet	Common queries for Microsoft Sentinel
-Case Study Writing Guide	How to write clear, professional SOC reports
+|Resource	|Description
+----------------------------------------------------------------------------------------------
+|SOC Investigation Template |	A reusable template for documenting incidents                   |
+|Triage Flowchart	          |Visual guide for alert triage and escalation                     |
+|MITRE ATT&CK               |Mapping Guide	Quick reference for mapping behaviours to ATT&CK  |
+|KQL Cheat Sheet	          |Common queries for Microsoft Sentinel                            |
+|Case Study Writing Guide 	|How to write clear, professional SOC reports                     |
+
 🛠️ Technical Skills
 Security Operations: Alert triage, incident response, log analysis
 
