@@ -41,19 +41,15 @@ Realistic, end‑to‑end incident investigations written in professional SOC fo
 
 ---
 
-## 🛠️ Technical Skills
+## ## 🛠️ Technical Skills
 
-Security Operations: Alert triage, incident response, log analysis
+**Security Operations:** Alert triage, incident response, log analysis  
+**Microsoft Security:** Azure AD, Identity Protection, Defender, Sentinel  
+**KQL:** Log queries, threat hunting, identity investigations  
+**IAM:** Access reviews, authentication analysis  
+**Pentesting (SME clients):** Recon, enumeration, reporting  
+**Documentation:** SOC reports, diagrams, timelines, MITRE ATT&CK mapping  
 
-Microsoft Security: Azure AD, Identity Protection, Defender, Sentinel
-
-KQL: Log queries, threat hunting, identity investigations
-
-IAM: Access reviews, authentication analysis
-
-Pentesting (SME clients): Recon, enumeration, reporting
-
-Documentation: SOC reports, diagrams, timelines, MITRE mapping
 ---
 ## 🎓 Education & Certifications
 
