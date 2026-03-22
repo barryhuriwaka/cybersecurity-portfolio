@@ -3,17 +3,17 @@
 
 
 
-##📌 About This Portfolio
+## 📌 About This Portfolio
 
 This portfolio showcases my hands‑on cybersecurity work, including SOC investigations, incident response workflows, KQL analysis, and security documentation.
 It demonstrates my ability to analyse threats, triage alerts, investigate suspicious activity, and communicate findings clearly and professionally.
 
 
-##📁 Portfolio Contents
+## 📁 Portfolio Contents
 
 ---
 
-##🧪 Case Studies (SOC Investigations)
+## 🧪 Case Studies (SOC Investigations)
 
 
 Realistic, end‑to‑end incident investigations written in professional SOC format.
@@ -28,7 +28,7 @@ Realistic, end‑to‑end incident investigations written in professional SOC fo
 
 
 
-##📊 Tools & Resources I’ve Built
+## 📊 Tools & Resources I’ve Built
 
 
 | Resource                    | Description                                      |
@@ -41,7 +41,7 @@ Realistic, end‑to‑end incident investigations written in professional SOC fo
 
 ---
 
-##🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 Security Operations: Alert triage, incident response, log analysis
 
@@ -55,7 +55,7 @@ Pentesting (SME clients): Recon, enumeration, reporting
 
 Documentation: SOC reports, diagrams, timelines, MITRE mapping
 ---
-##🎓 Education & Certifications
+## 🎓 Education & Certifications
 
 Bachelor of Cybersecurity (La Trobe University) — Finishing May 2026
 
@@ -63,7 +63,7 @@ Microsoft security stack experience
 
 Additional certifications planned (AZ‑500, SC‑200, etc.)
 ---
-##📬 Contact
+## 📬 Contact
 
 Location: Brisbane, QLD (Relocating to Wellington, NZ)
 
