@@ -1,9 +1,7 @@
 # 🔐 Barry Huriwaka — Cybersecurity Portfolio
 ### SOC Analyst | Incident Response | Microsoft 365 Security | KQL | Threat Detection
-# cybersecurity-portfolio
-Barry Huriwaka — Cybersecurity Portfolio
 
-SOC Analyst | Incident Response | Microsoft 365 Security | KQL | Threat Detection
+
 
 📌 About This Portfolio
 
