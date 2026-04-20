@@ -91,6 +91,8 @@ Realistic, end‑to‑end incident investigations written in professional SOC fo
 - **Location:** Brisbane, QLD (Relocating to Wellington, NZ)  
 - **LinkedIn:** https://www.linkedin.com/in/barry-huriwaka  
 - **GitHub:** https://github.com/barryhuriwaka  
+📄 CV available on LinkedIn  
+www.linkedin.com/in/barry-huriwaka
 
 ---
 
