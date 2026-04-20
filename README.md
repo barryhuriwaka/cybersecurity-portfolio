@@ -40,7 +40,8 @@ flowchart TD
 | **001** | 🔐 *Suspicious Login Activity — Microsoft 365* | Identity compromise, brute‑force detection, KQL investigation | [View Case Study](https://github.com/barryhuriwaka/soc-investigation-suspicious-logins) |
 | **002** | 📧 *Business Email Compromise (BEC) Attempt* | MFA fatigue, inbox rule abuse, financial fraud prevention | [View Case Study](https://github.com/barryhuriwaka/Business-Email-Compromise) |
 | **003** | 🎣 *Phishing & Credential Harvesting Attempt* | Phishing analysis, credential harvesting, MFA bypass attempt | [View Case Study](https://github.com/barryhuriwaka/Phishing-Credential-Harvesting) |
-| **004** | 🖥️ *Malware Execution on Endpoint* | EDR triage, process tree analysis, PowerShell execution | *(Coming soon)* |
+| **004** | 🖥️ *Malware Execution on Endpoint* | EDR triage, process tree analysis, PowerShell execution, C2 detection | [View Case Study](https://github.com/barryhuriwaka/Malware-Execution-Endpoint) |
+
 
 
 ---
