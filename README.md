@@ -1,173 +1,114 @@
-# 🛡️ Cybersecurity Portfolio
+<div align="center">
 
+# 🔐 **Barry Huriwaka — SOC Analyst Portfolio**  
+### Incident Response • Microsoft Security • Threat Detection • KQL • Endpoint & Identity Security
 
----
-
-
-## 🧭 About This Portfolio
-This portfolio showcases real-world SOC investigations I’ve completed using Microsoft 365 Defender, Azure AD, and KQL.  
-Each case study demonstrates my ability to detect, analyse, and contain identity-based threats using enterprise security tools and structured incident response workflows.
-
+</div>
 
 ---
 
+## 📌 About This Portfolio  
 
-## 🗺️ Portfolio Overview (Mermaid Diagram)
+This portfolio showcases my hands‑on cybersecurity work across:
 
-```mermaid
-flowchart TD
-    A[Cybersecurity Portfolio] --> B[Case Study 001<br>Suspicious Login Activity]
-    A --> C[Case Study 002<br>BEC Attempt]
-    A --> D[Case Study 003<br>Phishing & Credential Harvesting]
-    A --> E[Case Study 004<br>Malware Execution - Coming Soon]
+- SOC investigations  
+- Incident response workflows  
+- Threat detection  
+- KQL analysis  
+- Microsoft 365 security  
+- Documentation and reporting  
 
-    A --> F[Tools & Resources]
-    A --> G[Skills Demonstrated]
-    A --> H[Technical Skills]
-    A --> I[Education & Certifications]
-```
+Each case study demonstrates my ability to analyse threats, triage alerts, investigate suspicious activity, and communicate findings clearly and professionally.
 
 ---
-
-
-## 📁 Portfolio Contents
-
 
 ## 🧪 Case Studies (SOC Investigations)
 
-| 🔢 Case | 📝 Title | 🧠 Focus Area | 🔗 Link |
-|--------|----------|----------------|---------|
-| **001** | 🔐 *Suspicious Login Activity — Microsoft 365* | Identity compromise, brute‑force detection, KQL investigation | [View Case Study](https://github.com/barryhuriwaka/soc-investigation-suspicious-logins) |
-| **002** | 📧 *Business Email Compromise (BEC) Attempt* | MFA fatigue, inbox rule abuse, financial fraud prevention | [View Case Study](https://github.com/barryhuriwaka/Business-Email-Compromise) |
-| **003** | 🎣 *Phishing & Credential Harvesting Attempt* | Phishing analysis, credential harvesting, MFA bypass attempt | [View Case Study](https://github.com/barryhuriwaka/Phishing-Credential-Harvesting) |
-| **004** | 🖥️ *Malware Execution on Endpoint* | EDR triage, process tree analysis, PowerShell execution, C2 detection | [View Case Study](https://github.com/barryhuriwaka/Malware-Execution-Endpoint) |
+Realistic, end‑to‑end incident investigations written in professional SOC format.
 
-
-
----
-
-
-## 📊 Tools & Resources I’ve Built
-
-| 🧰 Resource | 📄 Description |
-|------------|----------------|
-| 📝 **SOC Investigation Template** | A reusable template for documenting incidents |
-| 🔀 **Triage Flowchart** | Visual guide for alert triage and escalation |
-| 🗺️ **MITRE ATT&CK Mapping Guide** | Quick reference for mapping behaviours to ATT&CK |
-| 🔍 **KQL Cheat Sheet** | Common queries for Microsoft Sentinel |
-| ✍️ **Case Study Writing Guide** | How to write clear, professional SOC reports |
-
+| Case # | Title | Skills Demonstrated |
+|--------|--------|---------------------|
+| **001** | [Suspicious Login Activity](https://github.com/barryhuriwaka/soc-investigation-suspicious-logins) | KQL, Azure AD, Identity Protection, IR workflow |
+| **002** | [Business Email Compromise (BEC) Attempt](https://github.com/barryhuriwaka/Business-Email-Compromise) | Header analysis, URL detonation, mailbox audit, MFA fatigue detection, inbox rule analysis, impersonation detection |
+| **003** | [Phishing & Credential Harvesting](https://github.com/barryhuriwaka/Phishing-Credential-Harvesting) | Email threat analysis, credential harvesting detection, MFA protection, identity investigation |
+| **004** | [Malware Execution on Endpoint](https://github.com/barryhuriwaka/Malware-Execution-Endpoint) | EDR triage, process tree analysis, PowerShell execution analysis, C2 detection, host isolation, MITRE mapping |
+| **005** | *Coming Soon: Insider Threat — Data Exfiltration* | DLP, audit logs, behavioural analysis, privilege misuse detection |
 
 ---
 
+## 📊 Tools & Resources I’ve Built  
 
-## 🛠️ Skills Demonstrated
-
-### 🔍 Detection & Analysis
-- 🧪 KQL log analysis  
-- 🕵️ Identity threat detection  
-- 📈 Incident response workflow  
-- 🧬 MITRE ATT&CK mapping  
-
-### 📧 Email & Identity Security
-- 📩 Email security investigation  
-- 🔐 Azure AD & M365 Defender  
-- 🔑 Authentication & access analysis  
-
-### 📝 Documentation & Reporting
-- 🗂️ SOC report writing  
-- 🧭 Timeline creation  
-- 🖼️ Diagramming & visual documentation  
-- 🧾 Clear, structured case study reporting  
-
+| Resource | Description |
+|----------|-------------|
+| **SOC Investigation Template** | A reusable template for documenting incidents |
+| **Triage Flowchart** | Visual guide for alert triage and escalation |
+| **MITRE ATT&CK Mapping Guide** | Quick reference for mapping behaviours to ATT&CK |
+| **KQL Cheat Sheet** | Common queries for Microsoft Sentinel |
+| **Case Study Writing Guide** | How to write clear, professional SOC reports |
 
 ---
 
+## 🛠️ Technical Skills  
 
-## 🧰 Technical Skills
+### **Security Operations**
+- Alert triage  
+- Incident response  
+- Log analysis  
+- Threat detection  
+- Host & identity investigations  
 
-### 🛡️ Security Operations
-- 🔎 Alert triage & investigation  
-- 🧪 Log analysis (Sentinel, M365 Defender)  
-- 🕵️ Threat hunting & IOC correlation  
-- 🧬 MITRE ATT&CK mapping  
+### **Microsoft Security**
+- Azure AD / Entra ID  
+- Microsoft Defender (Endpoint, Identity, Office 365)  
+- Microsoft Sentinel  
+- Conditional Access  
+- Identity Protection  
 
-### 🔐 Microsoft Security Stack
-- 🟦 Azure AD / Entra ID  
-- 🛡️ Microsoft Defender (Identity, Office 365, Endpoint)  
-- 📊 Microsoft Sentinel (KQL, analytics, hunting)  
-- 🔑 Conditional Access, authentication analysis  
+### **KQL (Kusto Query Language)**
+- Log queries  
+- Threat hunting  
+- Identity investigations  
+- Endpoint telemetry analysis  
 
-### 📘 KQL & Log Analysis
-- 📈 Query development  
-- 🧹 Data filtering & normalization  
-- 🧭 Identity investigation queries  
-- 🔍 Threat hunting patterns  
+### **IAM**
+- Authentication analysis  
+- Access reviews  
+- Privilege misuse detection  
 
-### 👤 IAM & Access Control
-- 🔑 Authentication flow analysis  
-- 🧩 Access reviews  
-- 🛂 Privilege assessment  
-- 🧱 MFA enforcement & hardening  
+### **Pentesting (SME Clients)**
+- Reconnaissance  
+- Enumeration  
+- Reporting  
 
-### 🧪 Pentesting (SME Clients)
-- 🛰️ Recon & enumeration  
-- 🧱 Vulnerability identification  
-- 📝 Reporting & remediation guidance  
-
-### 📝 Documentation & Reporting
-- 🗂️ SOC reports  
-- 🧭 Timelines  
-- 🖼️ Diagrams & visual documentation  
-- ✍️ Clear, structured case study writing  
-
-
----
-
-## 🎓 Education & Certifications
-
-### 🎓 Education
-- **Bachelor of Cybersecurity — La Trobe University**  
-  *Expected completion: May 2026*
-
-### 🛡️ Certifications
-- 🛡️ **CompTIA Security+** — 2026  
-- 🌐 **CompTIA Network+** — In progress  
-- ☁️ **Microsoft AZ‑900 (Azure Fundamentals)** — In progress  
-
-### 🎯 Future Certifications
-- 🔐 **AZ‑500 — Azure Security Engineer**  
-- 🛡️ **SC‑200 — Microsoft Security Operations Analyst**  
-- 🧩 **SC‑300 — Identity & Access Administrator**  
- 
+### **Documentation**
+- SOC reports  
+- Diagrams  
+- Timelines  
+- MITRE ATT&CK mapping  
 
 ---
 
-## 📬 Contact
+## 🎓 Education & Certifications  
+
+- **Bachelor of Cybersecurity (La Trobe University)** — Finishing May 2026  
+- **CompTIA Security+** — 2026  
+- **CompTIA Network+** — In progress  
+- **Microsoft AZ‑900** — In progress  
+- **Microsoft Security Stack Experience**  
+- Future certifications planned: **AZ‑500**, **SC‑200**, **SC‑300**
+
+---
+
+## 📬 Contact  
+
 - **Location:** Brisbane, QLD (Relocating to Wellington, NZ)  
 - **LinkedIn:** https://www.linkedin.com/in/barry-huriwaka  
 - **GitHub:** https://github.com/barryhuriwaka  
-**Documentation:** SOC reports, diagrams, timelines, MITRE ATT&CK mapping  
 
 ---
-## 🎓 Education & Certifications
 
-Bachelor of Cybersecurity (La Trobe University) — Finishing May 2026
+<div align="center">
 
-Comptia Security + - 2026
+### ⭐ *Thank you for reviewing my SOC Analyst Portfolio.*
 
-Comptia Network + - in progress
-
-AZ900 - in progress
-
-Microsoft security stack experience
-
-Additional certifications planned (AZ‑500, SC‑200, etc.)
----
-## 📬 Contact
-
-Location: Brisbane, QLD (Relocating to Wellington, NZ)
-
-LinkedIn: www.linkedin.com/in/barry-huriwaka
-
-GitHub: https://github.com/barryhuriwaka 
+</div>
