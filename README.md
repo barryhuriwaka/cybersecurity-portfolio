@@ -1,12 +1,8 @@
-# 🔐 Barry Huriwaka — SOC Analyst Portfolio
-### SOC Analyst | Incident Response | Microsoft 365 Security | KQL | Threat Detection
+# Cybersecurity Portfolio
 
-
-
-## 📌 About This Portfolio
-
-This portfolio showcases my hands‑on cybersecurity work, including SOC investigations, incident response workflows, KQL analysis, and security documentation.
-It demonstrates my ability to analyse threats, triage alerts, investigate suspicious activity, and communicate findings clearly and professionally.
+## 🧭 About This Portfolio
+This portfolio showcases real-world SOC investigations I’ve completed using Microsoft 365 Defender, Azure AD, and KQL.  
+Each case study demonstrates my ability to detect, analyse, and contain identity-based threats using enterprise security tools and structured incident response workflows.
 
 
 ## 📁 Portfolio Contents
@@ -16,17 +12,10 @@ It demonstrates my ability to analyse threats, triage alerts, investigate suspic
 ## 🧪 Case Studies (SOC Investigations)
 
 
-Realistic, end‑to‑end incident investigations written in professional SOC format.
-
-| Case # | Title   | Skills Demonstrated   |
-|--------|----------|----------------------|
-| 001    | [Suspicious Login Activity — Microsoft 365](https://github.com/barryhuriwaka/soc-investigation-suspicious-logins) | KQL, Azure AD, Identity Protection, IR workflow  |
-| 002 | [Business Email Compromise](https://github.com/barryhuriwaka/case-study-02-bec)  | Header analysis, URL detonation, mailbox audit, MFA fatigue detection, Suspicious inbox rule detection, Threat actor impersonation analysis, Identity‑based threat investigation, Financial fraud prevention workflow |
-|003    | Malware Execution on Endpoint | EDR triage,  Process tree analysis, PowerShell execution analysis, Malware behaviour identification, C2 beaconing detection, Host isolation workflow, Memory artefact review, MITRE mapping (Execution, Persistence, C2) |
-|004    | Coming Soon: Insider Threat — Data Exfiltration | DLP, audit logs, behavioural analysis, Privilege misuse detection, Data exfiltration pattern analysis, Insider threat triage workflow   |               
-
-
-
+| Case # | Title | Description | Link |
+|--------|--------|-------------|-------|
+| 001 | Suspicious Login Activity | Identity compromise, brute-force detection, KQL investigation | [View Case Study](https://github.com/barryhuriwaka/soc-investigation-suspicious-logins) |
+| 002 | Business Email Compromise (BEC) | MFA fatigue, inbox rule abuse, financial fraud prevention | [View Case Study](https://github.com/barryhuriwaka/Business-Email-Compromise) |
 
 
 ## 📊 Tools & Resources I’ve Built
@@ -41,6 +30,14 @@ Realistic, end‑to‑end incident investigations written in professional SOC fo
 | Case Study Writing Guide    | How to write clear, professional SOC reports     |
 
 ---
+## 🛠️ Skills Demonstrated
+- KQL log analysis  
+- Identity threat detection  
+- Incident response workflow  
+- MITRE ATT&CK mapping  
+- Email security investigation  
+- Azure AD & M365 Defender  
+- Documentation & reporting  
 
 ## ## 🛠️ Technical Skills
 
