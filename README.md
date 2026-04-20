@@ -21,7 +21,7 @@ Realistic, end‑to‑end incident investigations written in professional SOC fo
 | Case # | Title                                                                 | Skills Demonstrated                                   |
 |--------|------------------------------------------------------------------------|--------------------------------------------------------|
 | 001    | [Suspicious Login Activity — Microsoft 365](https://github.com/barryhuriwaka/soc-investigation-suspicious-logins) | KQL, Azure AD, Identity Protection, IR workflow        |
-| 002    | Coming Soon: Phishing Email Investigation                              | Header analysis, URL detonation, mailbox audit         |
+| 002    | Business Email Compromise (BEC) Attempt                              | Header analysis, URL detonation, mailbox audit         |
 | 003    | Coming Soon: Malware Execution on Endpoint                             | EDR triage, process tree analysis                      |
 | 004    | Coming Soon: Insider Threat — Data Exfiltration                        | DLP, audit logs, behavioural analysis                  |
 
