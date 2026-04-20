@@ -17,19 +17,17 @@ Each case study demonstrates my ability to detect, analyse, and contain identity
 | **003** | 🎣 *Phishing & Credential Harvesting Attempt* | Phishing analysis, credential harvesting, MFA bypass attempt | [View Case Study](https://github.com/barryhuriwaka/Phishing-Credential-Harvesting) |
 | **004** | 🖥️ *Malware Execution on Endpoint* | EDR triage, process tree analysis, PowerShell execution | *(Coming soon)* |
 
-
-
 ---
 
 ## 📊 Tools & Resources I’ve Built
 
-| Resource | Description |
-|----------|-------------|
-| **SOC Investigation Template** | A reusable template for documenting incidents |
-| **Triage Flowchart** | Visual guide for alert triage and escalation |
-| **MITRE ATT&CK Mapping Guide** | Quick reference for mapping behaviours to ATT&CK |
-| **KQL Cheat Sheet** | Common queries for Microsoft Sentinel |
-| **Case Study Writing Guide** | How to write clear, professional SOC reports |
+| 🧰 Resource | 📄 Description |
+|------------|----------------|
+| 📝 **SOC Investigation Template** | A reusable template for documenting incidents |
+| 🔀 **Triage Flowchart** | Visual guide for alert triage and escalation |
+| 🗺️ **MITRE ATT&CK Mapping Guide** | Quick reference for mapping behaviours to ATT&CK |
+| 🔍 **KQL Cheat Sheet** | Common queries for Microsoft Sentinel |
+| ✍️ **Case Study Writing Guide** | How to write clear, professional SOC reports |
 
 ---
 
