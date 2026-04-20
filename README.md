@@ -55,6 +55,12 @@ Realistic, end‑to‑end incident investigations written in professional SOC fo
 
 Bachelor of Cybersecurity (La Trobe University) — Finishing May 2026
 
+Comptia Security + - 2026
+
+Comptia Network + - in progress
+
+AZ900 - in progress
+
 Microsoft security stack experience
 
 Additional certifications planned (AZ‑500, SC‑200, etc.)
