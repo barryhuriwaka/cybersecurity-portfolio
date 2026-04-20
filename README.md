@@ -21,7 +21,8 @@ Realistic, end‑to‑end incident investigations written in professional SOC fo
 | Case # | Title   | Skills Demonstrated   |
 |--------|----------|----------------------|
 | 001    | [Suspicious Login Activity — Microsoft 365](https://github.com/barryhuriwaka/soc-investigation-suspicious-logins) | KQL, Azure AD, Identity Protection, IR workflow  |
-| 002 | [Business Email Compromise] (https://github.com/barryhuriwaka/case-study-02-bec)  | Header analysis, URL detonation, mailbox audit, MFA fatigue detection, Suspicious inbox rule detection, Threat actor impersonation analysis, Identity‑based threat investigation, Financial fraud prevention workflow |
+| 002 | [Business Email Compromise](https://github.com/barryhuriwaka/case-study-02-bec)
+  | Header analysis, URL detonation, mailbox audit, MFA fatigue detection, Suspicious inbox rule detection, Threat actor impersonation analysis, Identity‑based threat investigation, Financial fraud prevention workflow |
 |003    | Malware Execution on Endpoint | EDR triage,  Process tree analysis, PowerShell execution analysis, Malware behaviour identification, C2 beaconing detection, Host isolation workflow, Memory artefact review, MITRE mapping (Execution, Persistence, C2) |
 |004    | Coming Soon: Insider Threat — Data Exfiltration | DLP, audit logs, behavioural analysis, Privilege misuse detection, Data exfiltration pattern analysis, Insider threat triage workflow   |               
 
