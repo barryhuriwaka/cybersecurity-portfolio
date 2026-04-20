@@ -29,22 +29,10 @@ Realistic, end‑to‑end incident investigations written in professional SOC fo
 | Case # | Title | Skills Demonstrated |
 |--------|--------|---------------------|
 | **001** | [Suspicious Login Activity](https://github.com/barryhuriwaka/soc-investigation-suspicious-logins) | KQL, Azure AD, Identity Protection, IR workflow |
-| **002** | [Business Email Compromise (BEC) Attempt](https://github.com/barryhuriwaka/Business-Email-Compromise) | Header analysis, URL detonation, mailbox audit, MFA fatigue detection, inbox rule analysis, impersonation detection |
-| **003** | [Phishing & Credential Harvesting](https://github.com/barryhuriwaka/Phishing-Credential-Harvesting) | Email threat analysis, credential harvesting detection, MFA protection, identity investigation |
-| **004** | [Malware Execution on Endpoint](https://github.com/barryhuriwaka/Malware-Execution-Endpoint) | EDR triage, process tree analysis, PowerShell execution analysis, C2 detection, host isolation, MITRE mapping |
-| **005** | *Coming Soon: Insider Threat — Data Exfiltration* | DLP, audit logs, behavioural analysis, privilege misuse detection |
-
----
-
-## 📊 Tools & Resources I’ve Built  
-
-| Resource | Description |
-|----------|-------------|
-| **SOC Investigation Template** | A reusable template for documenting incidents |
-| **Triage Flowchart** | Visual guide for alert triage and escalation |
-| **MITRE ATT&CK Mapping Guide** | Quick reference for mapping behaviours to ATT&CK |
-| **KQL Cheat Sheet** | Common queries for Microsoft Sentinel |
-| **Case Study Writing Guide** | How to write clear, professional SOC reports |
+| **002** | [Business Email Compromise (BEC) Attempt](https://github.com/barryhuriwaka/Business-Email-Compromise) | Header analysis, URL detonation, mailbox audit, MFA fatigue detection, inbox rule analysis |
+| **003** | [Phishing & Credential Harvesting](https://github.com/barryhuriwaka/Phishing-Credential-Harvesting) | Email threat analysis, credential harvesting detection, MFA protection |
+| **004** | [Malware Execution on Endpoint](https://github.com/barryhuriwaka/Malware-Execution-Endpoint) | EDR triage, process tree analysis, PowerShell execution analysis, C2 detection |
+| **005** | *Coming Soon: Insider Threat — Data Exfiltration* | DLP, audit logs, behavioural analysis |
 
 ---
 
@@ -94,7 +82,6 @@ Realistic, end‑to‑end incident investigations written in professional SOC fo
 - **CompTIA Security+** — 2026  
 - **CompTIA Network+** — In progress  
 - **Microsoft AZ‑900** — In progress  
-- **Microsoft Security Stack Experience**  
 - Future certifications planned: **AZ‑500**, **SC‑200**, **SC‑300**
 
 ---
@@ -111,4 +98,3 @@ Realistic, end‑to‑end incident investigations written in professional SOC fo
 
 ### ⭐ *Thank you for reviewing my SOC Analyst Portfolio.*
 
-</div>
