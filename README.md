@@ -32,13 +32,24 @@ Each case study demonstrates my ability to detect, analyse, and contain identity
 ---
 
 ## 🛠️ Skills Demonstrated
-- KQL log analysis  
-- Identity threat detection  
-- Incident response workflow  
-- MITRE ATT&CK mapping  
-- Email security investigation  
-- Azure AD & M365 Defender  
-- Documentation & reporting  
+
+### 🔍 Detection & Analysis
+- 🧪 KQL log analysis  
+- 🕵️ Identity threat detection  
+- 📈 Incident response workflow  
+- 🧬 MITRE ATT&CK mapping  
+
+### 📧 Email & Identity Security
+- 📩 Email security investigation  
+- 🔐 Azure AD & M365 Defender  
+- 🔑 Authentication & access analysis  
+
+### 📝 Documentation & Reporting
+- 🗂️ SOC report writing  
+- 🧭 Timeline creation  
+- 🖼️ Diagramming & visual documentation  
+- 🧾 Clear, structured case study reporting  
+
 
 ---
 
