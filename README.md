@@ -8,12 +8,15 @@ Each case study demonstrates my ability to detect, analyse, and contain identity
 
 ## 📁 Portfolio Contents
 
-### 🧪 Case Studies (SOC Investigations)
+## 🧪 Case Studies (SOC Investigations)
 
 | Case # | Title | Description | Link |
 |--------|--------|-------------|-------|
-| **001** | Suspicious Login Activity | Identity compromise, brute-force detection, KQL investigation | [View Case Study](https://github.com/barryhuriwaka/soc-investigation-suspicious-logins) |
-| **002** | Business Email Compromise (BEC) | MFA fatigue, inbox rule abuse, financial fraud prevention | [View Case Study](https://github.com/barryhuriwaka/Business-Email-Compromise) |
+| **001** | Suspicious Login Activity — Microsoft 365 | Identity compromise, brute‑force detection, KQL investigation | [View Case Study](https://github.com/barryhuriwaka/soc-investigation-suspicious-logins) |
+| **002** | Business Email Compromise (BEC) Attempt | MFA fatigue, inbox rule abuse, financial fraud prevention | [View Case Study](https://github.com/barryhuriwaka/Business-Email-Compromise) |
+| **003** | Phishing & Credential Harvesting Attempt | Phishing analysis, credential harvesting, MFA bypass attempt, identity investigation | [View Case Study](https://github.com/barryhuriwaka/Phishing-Credential-Harvesting) |
+| **004** | Malware Execution on Endpoint | EDR triage, process tree analysis, PowerShell execution, C2 detection | *(Coming soon)* |
+
 
 ---
 
