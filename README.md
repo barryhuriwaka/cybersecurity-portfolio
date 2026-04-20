@@ -1,12 +1,37 @@
 # 🛡️ Cybersecurity Portfolio
 
+
+---
+
+
 ## 🧭 About This Portfolio
 This portfolio showcases real-world SOC investigations I’ve completed using Microsoft 365 Defender, Azure AD, and KQL.  
 Each case study demonstrates my ability to detect, analyse, and contain identity-based threats using enterprise security tools and structured incident response workflows.
 
+
 ---
 
+
+## 🗺️ Portfolio Overview (Mermaid Diagram)
+
+```mermaid
+flowchart TD
+    A[Cybersecurity Portfolio] --> B[Case Study 001<br>Suspicious Login Activity]
+    A --> C[Case Study 002<br>BEC Attempt]
+    A --> D[Case Study 003<br>Phishing & Credential Harvesting]
+    A --> E[Case Study 004<br>Malware Execution - Coming Soon]
+
+    A --> F[Tools & Resources]
+    A --> G[Skills Demonstrated]
+    A --> H[Technical Skills]
+    A --> I[Education & Certifications]
+```
+
+---
+
+
 ## 📁 Portfolio Contents
+
 
 ## 🧪 Case Studies (SOC Investigations)
 
@@ -17,7 +42,9 @@ Each case study demonstrates my ability to detect, analyse, and contain identity
 | **003** | 🎣 *Phishing & Credential Harvesting Attempt* | Phishing analysis, credential harvesting, MFA bypass attempt | [View Case Study](https://github.com/barryhuriwaka/Phishing-Credential-Harvesting) |
 | **004** | 🖥️ *Malware Execution on Endpoint* | EDR triage, process tree analysis, PowerShell execution | *(Coming soon)* |
 
+
 ---
+
 
 ## 📊 Tools & Resources I’ve Built
 
@@ -29,7 +56,9 @@ Each case study demonstrates my ability to detect, analyse, and contain identity
 | 🔍 **KQL Cheat Sheet** | Common queries for Microsoft Sentinel |
 | ✍️ **Case Study Writing Guide** | How to write clear, professional SOC reports |
 
+
 ---
+
 
 ## 🛠️ Skills Demonstrated
 
@@ -53,23 +82,63 @@ Each case study demonstrates my ability to detect, analyse, and contain identity
 
 ---
 
+
 ## 🧰 Technical Skills
-- **Security Operations:** Alert triage, incident response, log analysis  
-- **Microsoft Security:** Azure AD, Identity Protection, Defender, Sentinel  
-- **KQL:** Log queries, threat hunting, identity investigations  
-- **IAM:** Access reviews, authentication analysis  
-- **Pentesting (SME clients):** Recon, enumeration, reporting  
-- **Documentation:** SOC reports, diagrams, timelines, MITRE ATT&CK mapping  
+
+### 🛡️ Security Operations
+- 🔎 Alert triage & investigation  
+- 🧪 Log analysis (Sentinel, M365 Defender)  
+- 🕵️ Threat hunting & IOC correlation  
+- 🧬 MITRE ATT&CK mapping  
+
+### 🔐 Microsoft Security Stack
+- 🟦 Azure AD / Entra ID  
+- 🛡️ Microsoft Defender (Identity, Office 365, Endpoint)  
+- 📊 Microsoft Sentinel (KQL, analytics, hunting)  
+- 🔑 Conditional Access, authentication analysis  
+
+### 📘 KQL & Log Analysis
+- 📈 Query development  
+- 🧹 Data filtering & normalization  
+- 🧭 Identity investigation queries  
+- 🔍 Threat hunting patterns  
+
+### 👤 IAM & Access Control
+- 🔑 Authentication flow analysis  
+- 🧩 Access reviews  
+- 🛂 Privilege assessment  
+- 🧱 MFA enforcement & hardening  
+
+### 🧪 Pentesting (SME Clients)
+- 🛰️ Recon & enumeration  
+- 🧱 Vulnerability identification  
+- 📝 Reporting & remediation guidance  
+
+### 📝 Documentation & Reporting
+- 🗂️ SOC reports  
+- 🧭 Timelines  
+- 🖼️ Diagrams & visual documentation  
+- ✍️ Clear, structured case study writing  
+
 
 ---
 
 ## 🎓 Education & Certifications
-- **Bachelor of Cybersecurity (La Trobe University)** — Finishing May 2026  
-- **CompTIA Security+** — 2026  
-- **CompTIA Network+** — In progress  
-- **AZ-900** — In progress  
-- **Microsoft Security Stack Experience**  
-- Additional certifications planned: **AZ‑500**, **SC‑200**, etc.  
+
+### 🎓 Education
+- **Bachelor of Cybersecurity — La Trobe University**  
+  *Expected completion: May 2026*
+
+### 🛡️ Certifications
+- 🛡️ **CompTIA Security+** — 2026  
+- 🌐 **CompTIA Network+** — In progress  
+- ☁️ **Microsoft AZ‑900 (Azure Fundamentals)** — In progress  
+
+### 🎯 Future Certifications
+- 🔐 **AZ‑500 — Azure Security Engineer**  
+- 🛡️ **SC‑200 — Microsoft Security Operations Analyst**  
+- 🧩 **SC‑300 — Identity & Access Administrator**  
+ 
 
 ---
 
