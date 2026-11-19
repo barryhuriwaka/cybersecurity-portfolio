@@ -82,7 +82,7 @@ Realistic, end‑to‑end incident investigations written in professional SOC fo
 - **CompTIA Security+** — 2026  
 - **CompTIA Network+** — In progress  
 - **Microsoft AZ‑900** — In progress  
-- Currently studying **AZ‑500**, **SC‑200**, **SC‑300**
+- Currently developing skills in Microsoft Security technologies including **AZ‑500**, **SC‑200**, **SC‑300**
 
 ---
 
