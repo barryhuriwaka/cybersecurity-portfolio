@@ -78,7 +78,7 @@ Realistic, end‑to‑end incident investigations written in professional SOC fo
 
 ## 🎓 Education & Certifications  
 
-- **Bachelor of Cybersecurity (La Trobe University)** — Finishing May 2026  
+- **Bachelor of Cybersecurity (La Trobe University)** — Final requirements in progress  
 - **CompTIA Security+** — 2026  
 - **CompTIA Network+** — In progress  
 - **Microsoft AZ‑900** — In progress  
